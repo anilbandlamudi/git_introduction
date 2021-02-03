@@ -23,3 +23,7 @@ this is horizontal line
 -milk
 -* italic*
 _** bold**
+
+
+
+- ![image](https://www.gettyimages.com/gi-resources/images/500px/983794168.jpg)
